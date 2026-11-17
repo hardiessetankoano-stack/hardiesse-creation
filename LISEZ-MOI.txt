@@ -1,0 +1,7 @@
+HARDIESSE CRÉATION — VERSION WEB INSTALLABLE
+
+Cette version peut être installée sur l’écran d’accueil et utilisée hors ligne après son premier chargement.
+
+IMPORTANT : pour afficher le bouton « Installer l’application », héberge les fichiers de ce dossier sur un site HTTPS (par exemple GitHub Pages ou Cloudflare Pages), puis ouvre le lien dans Chrome ou Edge sur ton téléphone. Le fichier HTML ouvert directement depuis le téléphone ne suffit pas à installer une PWA.
+
+Le ZIP contient index.html, le manifeste, le service worker et les icônes. Les analyses restent enregistrées localement sur l’appareil.
